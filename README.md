@@ -20,7 +20,7 @@ Internet used by us every day was not originally created for convenient data ana
 @mastersthesis{Szeremeta:Thesis:2015,
 	address = "Poland",
 	author = "Szeremeta, {\L}ukasz",
-	note = "\url{https://github.com/lszeremeta/bachelors-thesis/raw/master/Buforowanie\%20tr\%C3\%B3jek\%20w\%20magazynach\%20graf\%C3\%B3w\%20RDF\%20-\%20\%C5\%81ukasz\%20Szeremeta\%202015.pdf}",
+	note = "\url{http://repozytorium.uwb.edu.pl/jspui/handle/11320/3160}",
 	school = "University of Bialystok",
 	title = "{Buforowanie tr{\'o}jek w magazynach graf{\'o}w {RDF}}",
 	type = "{Bachelor{\rq}s Thesis}",
@@ -37,6 +37,4 @@ Internet used by us every day was not originally created for convenient data ana
 
 ## Author
 
-Copyright (C) 2015 [Łukasz Szeremeta](https://github.com/lszeremeta).
-
-All rights reserved.
+Copyright (C) 2015 [Łukasz Szeremeta](https://github.com/lszeremeta). All rights reserved.
